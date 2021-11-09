@@ -1,0 +1,9 @@
+# Default values for juice.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+
+juiceShop:
+  # -- Juice Shop Image to use
+  image: bkimminich/juice-shop
+  tag: v12.8.1
